@@ -33,7 +33,7 @@ body {
     border-radius: 8px;
 }
 
-.title>h2 {
+.title>h1 {
     font-size: 1.8rem;
     color: hsl(0, 0%, 100%);
     margin-top: 1.6rem;
